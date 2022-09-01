@@ -1,6 +1,8 @@
+live ---> [Product Preview](https://spectacular-cendol-23c780.netlify.app/).
+---
 # Product_Preview_Card
 * It is ensured that the products are shown as responsive. 
-
+ 
 * It is designed with ***HTML*** and ***Css***.
 
 * It is aimed to provide the most suitable image according to the screen size of the device.
